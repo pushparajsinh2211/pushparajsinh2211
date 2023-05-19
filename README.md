@@ -4,7 +4,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushparajsinh2211)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 👋 Hi, I’m @pushparajsinh2211
 - 👀 I’m interested in Web Development and App Development
 - 🌱 I’m currently learning React
 - 📫 How to reach me ? 
