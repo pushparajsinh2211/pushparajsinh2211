@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Pushparajsinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pushparajsinh2211&hide=contribs,prs&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Pushparajsinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pushparajsinh2211&hide=contribs,prs&count_private=true&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushparajsinh2211)](https://github.com/anuraghazra/github-readme-stats)
 
