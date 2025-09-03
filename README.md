@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React
 - 📫 How to reach me ? 
 -     You can contact me on my LinkedIn Profile: 
--     www.linkedin.com/in/pushparajsinh-parmar-139256194
+-     www.linkedin.com/in/pushparajsinh-parmar
 
 <!---
 pushparajsinh2211/pushparajsinh2211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
